@@ -1,0 +1,11 @@
+{
+    "sessionTimeoutSeconds": 300,
+    "autoStartTrackingEnabled": true,
+    "userInfoHashEnabled": true,
+    "facebookDeferredAppLinkEnabled": false,
+    "locationCollectionEnabled": false,
+    "trackingAuthorizeTimeoutSeconds": 0,
+    "sdkSignatureSecretID": "YOUR_SDK_SIGNATURE_SECRET_ID",
+    "sdkSignatureSecret": "YOUR_SDK_SIGNATURE_SECRET",
+    "logLevel": "warning"
+}
